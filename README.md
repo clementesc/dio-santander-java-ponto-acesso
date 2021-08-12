@@ -2,7 +2,7 @@
 Projeto que faz parte do Santander Bootcamp Fullstack Developer, 
 promovido pelo [Santander](https://app.becas-santander.com/) e [Digital Innovation One](https://web.digitalinnovation.one/).
 
-Algusn dos tópicos abordados nesse projeto:
+Alguns dos tópicos abordados nesse projeto:
 - Setup com o [Spring Boot Initialzr](https://start.spring.io/)
 - Aplicação multi-camadas (Model, Controller, Repository e Service)
 - Java 11
